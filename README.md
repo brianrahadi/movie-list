@@ -8,7 +8,7 @@ A Movie app that lets you see movies in various categories (popular, top rated, 
 - More stylish website :)
 
 ## Acknowledgements
-[Stephen Grider's React Udemy Course](https://www.udemy.com/course/react-redux/learn/lecture/20788074?start=255)
+[Stephen Grider's React Udemy Course](https://www.udemy.com/course/react-redux/learn/lecture/20788074?start=255) <br/>
 [Florin Pop's Movies App](https://www.youtube.com/watch?v=sZ0bZGfg_m4&ab_channel=FlorinPop)
 
 ## Personal Notes
