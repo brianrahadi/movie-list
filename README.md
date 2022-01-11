@@ -9,7 +9,10 @@ A Movie app that lets you see movies in various categories (popular, top rated, 
 
 ## Acknowledgements
 [Stephen Grider's React Udemy Course](https://www.udemy.com/course/react-redux/learn/lecture/20788074?start=255) <br/>
-[Florin Pop's Movies App](https://www.youtube.com/watch?v=sZ0bZGfg_m4&ab_channel=FlorinPop)
+I learned all about react from this course. This course is explained in a very simple way even though it does not get too advanced.
+
+[Florin Pop's Movies App](https://www.youtube.com/watch?v=sZ0bZGfg_m4&ab_channel=FlorinPop) <br/>
+I learned the basic of TMDB API from this course. From there, I created the entire website from scratch with React, Bootstrap, and Axios
 
 ## Personal Notes
-Learning React is very fun. The code is much more beautiful than building a website with vanilla JS. That being said, I intend to create a more complex website that has a proper backend to it.
+Learning React is very fun. The code is much more beautiful than building a website with vanilla JS. I intend to update this website so it has the features provided from further improvements.
