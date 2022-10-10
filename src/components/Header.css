@@ -1,0 +1,12 @@
+.navbar-brand, .nav-link {
+  color: white !important;
+}
+
+.navbar {
+  position: fixed;
+  z-index: 1;
+  left: 0px;
+  right: 0px;
+  background-color: #04293A;
+  border-bottom: 1px solid #191A19;
+}
